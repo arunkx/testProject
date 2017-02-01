@@ -1,1 +1,1 @@
-this is available in newBranch only !
+this is available everywhere!
